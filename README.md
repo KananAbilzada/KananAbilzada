@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **iOS Apps**
 
-- 🌱 I’m currently learning **Swift and SwiftUI**
+- 🌱 I’m currently writing **my own app**
 
 - 👯 I’m looking to collaborate on **iOS Application Development**
 
