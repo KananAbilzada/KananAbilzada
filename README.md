@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **iOS Application Development**
 
-- 📝 I regularly write articles on Medium [https://kananabilzada.medium.com/](https://kananabilzada.medium.com/)
+- 📝 I sometimes write articles on Medium [https://kananabilzada.medium.com/](https://kananabilzada.medium.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
